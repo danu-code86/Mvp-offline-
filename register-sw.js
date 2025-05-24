@@ -1,0 +1,1 @@
+// Service worker registered in index.html
